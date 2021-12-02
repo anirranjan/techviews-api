@@ -12,4 +12,4 @@ When people shop for new devices, they often read and/or watch reviews from vari
 
 ## Future Plans
 
-- My Aim to support a variety of smartphones, gaming consoles, and laptops in effort to assist buyers during the holiday season
+- My goal is to support a variety of smartphones, gaming consoles, and laptops in effort to assist buyers during the holiday season
