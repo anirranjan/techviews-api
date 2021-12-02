@@ -2,7 +2,9 @@ const express = require("express");
 const app = express();
 const port = 3000;
 
+//add the CSS
 app.use(express.static('public'));
+
 //start server
 app.listen(port, function () {
   console.log("Server running!");
